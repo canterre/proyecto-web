@@ -1,0 +1,40 @@
+header nav div a {
+  font-family: "Staatliches", cursive;
+}
+header nav div a img {
+  width: 50;
+  height: 50;
+}
+header nav div ul li a {
+  font-family: "Staatliches", cursive;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "Staatliches", cursive;
+  font-size: 200;
+}
+
+section ul li a {
+  color: green;
+  font-family: "Staatliches", cursive;
+}
+
+div div div {
+  background-color: #fffefe;
+  width: 60%;
+  height: 100%;
+}
+div div div div {
+  margin-bottom: 0%;
+}
+div div div div h5 {
+  font-family: "Staatliches", cursive;
+  color: #5915b8;
+}
+div div div div p {
+  font-family: "Rubik", sans-serif;
+  text-align: unset;
+}
+
+/*# sourceMappingURL=style.css.map */
